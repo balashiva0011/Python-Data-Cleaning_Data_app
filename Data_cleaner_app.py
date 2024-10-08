@@ -22,8 +22,8 @@ import random
 
 # data_path = 'sales.xlsx'
 # data_name = 'jan_sales'
-
-
+ 
+ 
 def data_cleaning_master(data_path, data_name):
 
     print("Thank you for giving the details!")
