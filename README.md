@@ -62,21 +62,21 @@ The key objectives of this project are:
 3. The application will automatically clean the dataset and save the results.
 
 ```bash
-python data_cleaning_master.py
+python data_cleaning_App.py
 ```
 
 ## Example of Execution
 
 ```bash
 Welcome to Data Cleaning Master!
-Please enter dataset path: /usr/Dekstop/amazon.csv
-Please enter dataset name: amazon_sales_data
+Please enter dataset path: "C:\Users\Hp\Desktop\delivery.xlsx"
+Please enter dataset name: delivery_data
 ```
 
 **Expected output:**
 
-- Duplicate records saved as: `sales_data_duplicates.csv`
-- Cleaned data saved as: `sales_data_Clean_data.csv`
+- Duplicate records saved as: `delivery_data_duplicates.csv`
+- Cleaned data saved as: `delivery_data_Clean_data.csv`
 
 ### Final Thoughts
-The **Data Cleaning Master** is an efficient tool for data pre-processing. Its ability to handle large datasets, clean data accurately, and save duplicates for further inspection makes it ideal for any data science or data analysis project.
+The **Data Cleaning App** is an efficient tool for data pre-processing. Its ability to handle large datasets, clean data accurately, and save duplicates for further inspection makes it ideal for any data science or data analysis project.
