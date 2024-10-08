@@ -1,5 +1,6 @@
 # Python-Data-Cleaning_Data_app
 
+*** ![images](https://github.com/user-attachments/assets/9416fb96-c673-45d9-982a-8d0a1ac90c01) ***
 
 
 The **Data Cleaning App** is a Python application designed to efficiently clean datasets by handling duplicates, missing values, and providing cleaned output within seconds. The application is user-friendly, highly performant, and has been tested on various datasets, ensuring smooth execution and accuracy.
